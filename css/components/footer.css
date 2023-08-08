@@ -1,0 +1,22 @@
+.footer {
+  background-size: cover;
+  background-color: rgb(45, 45, 52);
+  background-position: center;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size:xx-large;
+  margin-bottom: 0;
+
+}
+
+.footer p {
+  font-size: medium;
+  color: gray;
+}
+
+.social, .footer-text {
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  /* margin: 0 auto; */
+  justify-content: center;
+  justify-items: center;
+  padding: 200px 400px;
+}
+
+.hero h1 {
+  color: white;
+  font-weight: bold;
+}
+
+.hero p {
+  color: grey;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.button {
+  color: white;
+  padding: 15px 30px;
+  border-radius: 50px;
+  background-image: linear-gradient(rgb(14, 203, 81), rgb(48, 235, 216));
+  display: inline-block;
+}
+
+.button:hover {
+  background-image: linear-gradient(rgb(40, 196, 239), rgb(11, 179, 162));
+}
